@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec 19 21:43:11 2016
-
-@author: athira
-"""
 
 from collections import deque
 
